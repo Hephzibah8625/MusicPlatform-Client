@@ -1,13 +1,9 @@
 <template>
-$END$
+  <div>
+    <Navbar />
+    <Nuxt />
+    <Player />
+  </div>
 </template>
 
-<script>
-export default {
-name: "default"
-}
-</script>
 
-<style scoped>
-
-</style>
